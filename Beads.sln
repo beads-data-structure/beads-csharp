@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beads", "Beads\Beads.csproj", "{6DAFBF0E-3D21-4E98-AAE6-64746E91027D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeadsTest", "BeadsTest\BeadsTest.csproj", "{F9D20CAB-3DD4-437F-9134-1083079EB3FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DAFBF0E-3D21-4E98-AAE6-64746E91027D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DAFBF0E-3D21-4E98-AAE6-64746E91027D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DAFBF0E-3D21-4E98-AAE6-64746E91027D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DAFBF0E-3D21-4E98-AAE6-64746E91027D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D20CAB-3DD4-437F-9134-1083079EB3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D20CAB-3DD4-437F-9134-1083079EB3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D20CAB-3DD4-437F-9134-1083079EB3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D20CAB-3DD4-437F-9134-1083079EB3FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
